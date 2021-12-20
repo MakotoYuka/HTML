@@ -1,0 +1,23 @@
+body{
+    background-color: #ffd60a;
+}
+h1{
+    color: #ffc300;
+    background-color: #001d3d;
+    border: 10px solid #000814;
+    text-align: center;
+}
+p{
+    color: #ffd60a;
+    background-color: #001d3d;
+    padding: 15px;
+    border: 10px solid #003566;
+    /*margin-top: 40px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin: 40px 10px;*/
+    margin: auto 50px;
+    text-align: center;
+    
+}

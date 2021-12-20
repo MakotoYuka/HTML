@@ -1,0 +1,22 @@
+h1{
+    color: #780000
+}
+
+a{
+    text-decoration: none; 
+}
+a:link{
+    color: #c1121f;
+}
+
+a:visited{
+    color: #003049;
+}
+
+a:hover{
+    color: #669bbc;
+}
+
+a:active{
+    color: #c1121f ;
+}
